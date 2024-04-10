@@ -7,7 +7,10 @@ div {
     border-color:cadetblue; */
     /* A shorthand for this: */
     border: 5px solid chartreuse;
-}
+    /* for border sides
+    border-left-style:dotted;
+    border-left-color:blue; */
+} 
 
 h1{
     /* border-width: 2px;
