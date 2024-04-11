@@ -16,6 +16,13 @@ div {
     border-top-right-radius:20px;
     border-bottom-left-radius:20px; */
     padding-top: 5px;
+    margin: 20px 10px 20px 20px;
+    /* shorthand */
+    /* margin:20px; for all sides */
+    /* margin: 20px 30px; for top 7 bottom & left and right */
+    /* margin: 20px 30px 50px; for top, left & right & bottom */
+    /* margin: 10px 20px 30px 40px; for top, right, bottom & left(clockwise direction) */
+    /* margin: 0px; Default state */
 } 
 
 h1{
@@ -23,6 +30,8 @@ h1{
     border-color:blue;
     border-style:dashed; */
     border: 2px dashed blue;
+    margin: 0px;
+    /* setting default margin to 0 */
 }
 
 button{
