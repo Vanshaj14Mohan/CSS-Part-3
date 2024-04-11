@@ -1,0 +1,9 @@
+::Making a Traffic light
+
+1 -> Create a div & 3 sibling div inside it.
+
+2-> For outer div set following styling height 20px width 70px & border as 2px solid black color.
+
+3-> For the inner divs set the following styling:
+height 50px, width 50px & border as 2px solid black also set a margin of 10px
+make inner divs circular in shape & given them individual colors(red, yellow, green)

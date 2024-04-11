@@ -1,0 +1,35 @@
+#main{
+    border:2px solid black;
+    height:200px;
+    width:80px;
+    margin: 20px 0 0 20px;
+    background-color:black;
+}
+
+.test{
+    border:2px solid black;
+    border-radius: 50%;
+    height:50px;
+    width:50px;
+    margin:10px;
+}
+
+#red{
+    background-color: red;
+}
+
+#yellow{
+    background-color: yellow;
+}
+
+#green{
+    background-color: green;
+}
+
+/* Extra codes */
+h3{
+    border:5px solid purple;
+    height:50px;
+    width:200px;
+    padding:20px 0 0 15px;
+}
