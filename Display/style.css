@@ -6,8 +6,8 @@ h1{
 #test{
     background-color: crimson; 
     border: 2px solid black;
-    /* height:80px;
-    width:80px; no change coz it does not implement height & width in span */
-    /* padding:50px; only left & right
-    margin:20px; only left & right */
+    height:80px;
+    /* width:80px; no change coz it does not implement height & width in span  */
+    padding:50px; /*only left & right*/
+    margin:20px; /*only left & right*/
 }
