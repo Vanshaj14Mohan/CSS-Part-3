@@ -1,0 +1,18 @@
+h3{
+    border:2px solid black;
+    width:15%;  /*related to body*/
+}
+
+#outer{
+    height:350px;
+    width:350px;
+    background-color: blueviolet;
+    margin:50px;
+}
+
+#inner{
+    height:100px;
+    width:100px;
+    background-color: chocolate;
+    margin-left:20%;  /*set according to parent*/
+}
