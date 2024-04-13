@@ -1,0 +1,12 @@
+div{
+    height: 150px;
+    width: 150px;
+    background-color: greenyellow;
+    margin: 5px;
+    border:2px solid black;
+    display: inline-block;
+}
+
+#test{
+    display:none; /*no display property for the fourth div*/
+}
