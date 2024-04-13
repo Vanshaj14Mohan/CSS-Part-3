@@ -14,5 +14,5 @@ h3{
     height:100px;
     width:100px;
     background-color: chocolate;
-    margin-left:20%;  /*set according to parent*/
+    margin-left:25%;  /*set according to parent ie-> 25% of 350 = 87.5*/
 }
