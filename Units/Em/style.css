@@ -1,0 +1,16 @@
+#outer{
+    height:400px;
+    width:400px;
+    border: 2px solid goldenrod;
+    background-color:cornflowerblue;
+    font-size: 15px;
+}
+
+#inner{
+    height:100px;
+    width:100px;
+    border: 2px solid green;
+    background-color: chocolate;
+    font-size: 1.5em; /*parent related styling*/ 
+    padding: 1em; /*will set according to font-size of inner div coz padding sets according to element not parent*/
+}
