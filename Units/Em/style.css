@@ -14,3 +14,10 @@
     font-size: 1.5em; /*parent related styling*/ 
     padding: 1em; /*will set according to font-size of inner div coz padding sets according to element not parent*/
 }
+
+button{
+    font-size:30px;
+    border:2px solid black;
+    border-radius: 20px;
+    padding: 0 1em 0 1em;
+}
