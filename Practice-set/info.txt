@@ -1,0 +1,8 @@
+Q-1 Create a div using div.set
+- It's height to 150px, width to 300px & background color to grey.
+- Border to a 5px black dotted border.
+- A top margin 0f 20 px.
+- A right margin of 1em.
+- A bottom margin of 40px.
+- A left margin of 2em.
+- Padding on all sides of 1em.
