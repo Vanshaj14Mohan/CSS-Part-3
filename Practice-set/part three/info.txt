@@ -1,0 +1,6 @@
+Create a list of technologies-> Html, Css, JavaScript, Node js, React js, Sql, MongoDb, Java, C++, C & Python
+Now change the display to inline of all list items to move them in a single line
+(Our bulletpoints will disappear).
+coz-> Li(list items) have their display property set to "list-item" by default which makes them a bulleted
+list item, when this property is reset to "inline", then the bullet points also disappear. In a way we override
+the default settings with our css. 
