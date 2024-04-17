@@ -1,0 +1,6 @@
+Create 3 divs with the following properties
+- Height & width of 100px.
+- Background color to pink.
+- Border to 2px solid black.
+- Make these div in the shape of a circle.
+- Place all the 3 divs in a single line.
